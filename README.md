@@ -44,5 +44,8 @@ If you have any questions, suggestions, or issues, feel free to contact us. You 
 
 ## SS
 ![WhatsApp Image 2023-09-22 at 4 02 48 PM](https://github.com/ilhan48/TicTacToeDedicatedToTrabzon/assets/58470523/d8eb6b3f-880e-4124-b49d-e5019e6e5e8b)
+![WhatsApp Image 2023-09-22 at 4 03 01 PM](https://github.com/ilhan48/TicTacToeDedicatedToTrabzon/assets/58470523/6091dd6c-cd83-4837-a0d1-ccb2009128cb)
+![WhatsApp Image 2023-09-22 at 4 03 12 PM](https://github.com/ilhan48/TicTacToeDedicatedToTrabzon/assets/58470523/cc173f35-de6a-4a1a-843f-a61d63a3f441)
+![WhatsApp Image 2023-09-22 at 4 03 26 PM](https://github.com/ilhan48/TicTacToeDedicatedToTrabzon/assets/58470523/2c89f45f-e1e9-491a-bea7-af3f1dd1233f)
 
 
