@@ -43,5 +43,5 @@ We welcome contributions from the community. If you'd like to contribute to the 
 If you have any questions, suggestions, or issues, feel free to contact us. You can open an issue in the repository, or reach out to ilhanodun34@gmail.com.
 
 ## SS
- TicTacToe/Assets.xcassets/WhatsApp Image 2023-09-22 at 4.02.48 PM.jpeg
+(https://github.com/ilhan48/TicTacToeDedicatedToTrabzon/assets/58470523/d8eb6b3f-880e-4124-b49d-e5019e6e5e8b)
 
