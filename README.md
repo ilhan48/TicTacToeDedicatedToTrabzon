@@ -40,8 +40,5 @@ We welcome contributions from the community. If you'd like to contribute to the 
 
 ## Contact
 
-If you have any questions, suggestions, or issues, feel free to contact us. You can open an issue in the repository, or reach out to [your email address].
+If you have any questions, suggestions, or issues, feel free to contact us. You can open an issue in the repository, or reach out to ilhanodun34@gmail.com.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
